@@ -1,5 +1,5 @@
 # Python-Pygame-Operation-game
-This game was inspired by the classical operation game I use to play in my childhood. It is created in python with the pygame library. The game has two levels and in a certain period of time, users must use the keyboard to collect bones without touching the border to win points. The users must pass the first level to move onto level two. Each level has its own criteria to meet and with sounds and the instruction page, the player is guided through easily. In addition, the player has the choice to exit the game at any point. The game was created with for loops, while loops and functions. 
+The game was inspired by the classical operation game I use to play in my childhood. It is created in python with the pygame library. The game has two levels and in a certain period of time, users must use the keyboard to collect bones without touching the border to win points. The users must pass the first level in order to move onto level two. Each level has its own criteria to meet and with sounds and the instruction page, the player is guided through easily. In addition, the player has the choice to exit the game at any point. The game was created with for loops, while loops and functions. 
 
 
 # Screenshots
@@ -8,6 +8,6 @@ This game was inspired by the classical operation game I use to play in my child
 # Features
 The Operation Game lets you:
 
-* Replay as many times as you would like
-* Challenge yourself with 2 levels that increasingly get harder
-* Display detailed instructions
+* Continue playing as many times as you would like.
+* Challenge yourself with 2 levels that increasingly get harder.
+* Listen to music while playing.
